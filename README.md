@@ -42,6 +42,8 @@ projeto_iot/
 ├── Código conexão wi-fi.cpp
 ├── Código criptografado.cpp
 ├── INIC - IoT (Internet das Coisas).pdf
+├── images/
+│ ├── simulador.png
 ├── Simulador/
 │ └── projeto IoT (sensor de umidade + bomba de irrigação automática + sensor fotorresistor)/
 │ ├── diagram.json
