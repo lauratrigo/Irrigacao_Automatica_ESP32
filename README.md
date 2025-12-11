@@ -80,13 +80,13 @@ cd projeto_iot/Simulador/projeto\ IoT\ \(sensor\ de\ umidade\ +\ bomba\ de\ irri
 - Sistema escalável para inclusão de novos sensores e atuadores  
 
 <div align="center">
-  <img src="Simulador/projeto IoT (sensor de umidade + bomba de irrigação automática + sensor fotorresistor)/diagram.json" width="500">
-  <p>Diagrama geral do sistema IoT</p>
+  <img src="images/simulador.png" width="500">
+  <p>Print do simulador do projeto IoT</p>
 </div>
 
 ---
 
-## 📄 Relatório
+## 📄 Artigo do INIC - Relatório
 
 O relatório completo do projeto está disponível em formato PDF:  
 `INIC - IoT (Internet das Coisas).pdf`
