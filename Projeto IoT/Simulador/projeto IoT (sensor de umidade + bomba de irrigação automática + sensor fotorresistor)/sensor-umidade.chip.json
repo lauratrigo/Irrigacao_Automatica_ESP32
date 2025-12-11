@@ -1,0 +1,11 @@
+{
+  "name": "sensor-umidade",
+  "author": "",
+  "pins": [
+    "VCC",
+    "GND",
+    "IN",
+    "OUT"
+  ],
+  "controls": []
+}
